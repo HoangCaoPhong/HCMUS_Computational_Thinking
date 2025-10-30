@@ -1,0 +1,8 @@
+# don't push there files into github
+# Python Virtual Environment
+venv/
+*.pyc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
