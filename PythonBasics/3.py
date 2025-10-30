@@ -1,0 +1,5 @@
+s = input("Input your String: ")
+print(f"Length: {len(s)}")
+print(f"Uppercase: {s.upper()}")
+print(f"Normal: {s.lower()}")
+print(f"Reverse: {s[::-1]}")
